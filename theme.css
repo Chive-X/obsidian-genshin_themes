@@ -1,0 +1,71 @@
+/** Kachina_ZTS - Obsidian Theme 
+* 祥晶16（卡齊娜生日）始創。
+* Obsidian者黑曜石也、不亦古名之材乎？
+初版較簡、僅改諸色。
+**/
+
+.theme-light{
+  --background-primary: #FEF5BF;
+  --background-primary-alt: #FEF5BF;
+  --background-secondary: #FBE89D;
+  --background-secondary-alt: #FBE89D;
+
+   --text-normal: #312E2F;
+   --text-muted: #676467;
+   --text-faint: #676467;
+   --text-accent: #ACFAED;
+   --text-on-accent: #2E1C00;
+ 
+   --italic-color: #B5B04D;
+   --bold-color: #DF9839;
+   --tag-color: #4EADCF;
+   --code-normal: #7D7A26;
+ 
+   --link-color: #20B2CF;
+   --link-decoration: underline;
+   --link-decoration-thickness: 1px;
+   --link-external-color: #3FCD7C;
+ 
+   --text-selection: #F1C05A;
+ 
+   --h1-color: #281802;
+   --h2-color: #2E1C00;
+   --h3-color: #634931;
+   --h4-color: #814F0D;
+   --h5-color: #7C4E2C;
+   --h6-color: #FE9906;
+}
+
+.theme-dark {
+    --background-primary: #281802;
+    --background-primary-alt: #281802;
+    --background-secondary: #2E1C00;
+    --background-secondary-alt: #2E1C00;
+  
+    --text-normal: #FEF5BF;
+    --text-muted: #CA9555;
+    --text-faint: #CA9555;
+    --text-accent: #ACFAED;
+    --text-on-accent: #2E1C00;
+  
+    --italic-color: #FEBBA0;
+    --bold-color: #CE5D0C;
+    --tag-color: #3FCD7C;
+    --code-normal: #B4B530;
+  
+    --link-color: #C7BF43;
+    --link-decoration: underline;
+    --link-decoration-thickness: 1px;
+    --link-external-color: #ECD74B;
+  
+    --text-selection: #7C4E2C;
+  
+    --h1-color: #FFE042;
+    --h2-color: #FDC516;
+    --h3-color: #FDC048;
+    --h4-color: #F7B036;
+    --h5-color: #FE9906;
+    --h6-color: #814F0D;
+  }
+
+  
